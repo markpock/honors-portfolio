@@ -1,0 +1,16 @@
+navbar_entries:
+  - title: home
+    url: https://markpock.github.io/honors-portfolio/
+
+project_entries:
+  - title: Fall 2022
+    url: overview-post
+    desc: This is an example project, configured in _data/home.yml
+
+  - title: Winter 2023
+    url: overview-post
+    desc: Projects are shown in card layout
+
+  - title: Spring 2023
+    url: overview-post
+    desc: You can control visibility from _config.yml file
