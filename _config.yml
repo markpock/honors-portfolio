@@ -1,12 +1,14 @@
 # Set theme to Moonwalk
 remote_theme: abhinavs/moonwalk
 
+publish_token: pt_b29eba5fad27cfc8fa5dc7487b5376cb
+
 # Basic configuration
 title: Honors Portfolio
 author: Mark Pock
 url: https://markpock.github.io/honors-portfolio/
 
-description: Have I played the part well? Then applaud as I exit.
+description: false
 
 # Taken from abinavsconfig page
 theme_config:
