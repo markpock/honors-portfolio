@@ -4,13 +4,13 @@ navbar_entries:
 
 project_entries:
   - title: Fall 2022
-    url: pages/au2022.md
-    desc: false
+    url: /honors-portfolio/pages/1-au2022.md
+    desc: First quarter in CS! Lots of learning and growth, with a little too much foreshadowing for quarters to come.
 
   - title: Winter 2023
-    url: overview-post
+    url: /honors-portfolio/pages/2-wi2023.md
     desc: Projects are shown in card layout
 
   - title: Spring 2023
-    url: overview-post
+    url: /honors-portfolio/pages/3-sp2023.md
     desc: You can control visibility from _config.yml file
