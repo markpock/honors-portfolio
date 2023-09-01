@@ -5,7 +5,7 @@ navbar_entries:
 project_entries:
   - title: Fall 2022
     url: /honors-portfolio/pages/1-au2022.md
-    desc: First quarter in CS! Lots of learning and growth, with a little too much foreshadowing for quarters to come.
+    desc: First quarter in CS! Lots of learning and growth, with much foreshadowing for quarters to come.
 
   - title: Winter 2023
     url: /honors-portfolio/pages/2-wi2023.md
@@ -13,4 +13,13 @@ project_entries:
 
   - title: Spring 2023
     url: /honors-portfolio/pages/3-sp2023.md
+    desc: You can control visibility from _config.yml file
+  
+  - title: Spring 2023 (2) God this is infuriating
+    url: /honors-portfolio/pages/3-sp2023
+    desc: You can control visibility from _config.yml file
+  
+    
+  - title: Hor ich
+    url: /honors-portfolio/hor
     desc: You can control visibility from _config.yml file
