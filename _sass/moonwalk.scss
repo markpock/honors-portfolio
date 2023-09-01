@@ -222,3 +222,9 @@ p code, li code {
   text-transform: lowercase;
   //border: 1px solid var(--text-secondary);
 }
+
+.video {
+  max-width: 20%;
+  overflow: scroll;
+  object-fit: scale-down;
+}
