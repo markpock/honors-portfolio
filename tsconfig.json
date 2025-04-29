@@ -23,5 +23,12 @@
     "resolveJsonModule": true,
     "skipLibCheck": true,
     "strict": true
+  },
+  "theme": {
+    "extend": {
+      "fontFamily": {
+        "serif": ["Playfair Display", "Georgia", "serif"],
+      }
+    }
   }
 }
