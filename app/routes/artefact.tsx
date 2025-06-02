@@ -3,7 +3,7 @@ import { NavLink, Outlet } from "react-router"
 export default function Artefact() {
   return <>
     <div className="flex min-w-screen min-h-full flex-col items-center">
-      
+
       <div className="items-center min-h-full max-w-3xl">
         <div className="h-100 w-full relative">
           <img className="absolute left-0 top-0 rounded-xl w-full h-full" src="../gavel.png" alt="A gavel."></img>
@@ -16,12 +16,16 @@ export default function Artefact() {
           </div>
           </div>
         </div>
-      
+
         <div className="h-full w-full p-5 pb-15">
           <div className="h-full w-full p-5 bg-black/40 rounded-xl">
-            {/* <div className="font-serif text-xl">
+            {
+            /*
+            <div className="font-serif text-xl">
               Hello World
-            </div> */}
+            </div>
+            */
+            }
             <Outlet/>
           </div>
         
