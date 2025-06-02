@@ -1,4 +1,4 @@
-import{a as g}from"./with-props-C-kPibK6.js";import{r as n,n as e}from"./chunk-BAXFHI7N-B2Q7JTR2.js";/**
+import{a as g}from"./with-props-Cil6hWT-.js";import{r as n,n as e}from"./chunk-BAXFHI7N-BAZxhkEg.js";/**
  * @license lucide-react v0.503.0 - ISC
  *
  * This source code is licensed under the ISC license.
